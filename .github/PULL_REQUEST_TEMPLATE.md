@@ -9,7 +9,7 @@ Create a template to my future PRs
 - Go to pull request page in your project
 - Click in "New pull request" 
 - Copy this content to your PR and remove unnecessary information
-#### Screenshots (if appropriate)
+#### Screenshots/GIF (if appropriate)
 ## Dependencies
 #### Services
 #### New gems
